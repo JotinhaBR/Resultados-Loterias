@@ -5,6 +5,7 @@ Esses codigos conseguem puxar os resultados de algumas loterias do site oficial 
 <br>
 http://api.planetsweb.com.br/publicas/resultados_loterias/get_lotece.php
 <br>
+<br>
 http://api.planetsweb.com.br/publicas/resultados_loterias/get_federal.php
 <br>
 http://api.planetsweb.com.br/publicas/resultados_loterias/get_resultado.php?modo=MegaSena
